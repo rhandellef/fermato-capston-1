@@ -30,3 +30,7 @@ body {
 .navbar.logo {
 	width: 160px;
 }
+
+.normal {
+	font-weight: 20px;
+}
